@@ -7,6 +7,10 @@ body {
   text-align: center;
 }
 
+.recipe-description {
+  font-size: 18px;
+}
+
 img {
   height: auto;
   width: 300px;
