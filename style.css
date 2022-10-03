@@ -6,3 +6,8 @@ body {
 .page-head {
   text-align: center;
 }
+
+img {
+  height: auto;
+  width: 300px;
+}
